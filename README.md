@@ -9,10 +9,10 @@ This project trains a CNN to distinguish between images of cats and dogs using a
 ## Dataset
 
 The dataset structure should be:
-- `datasets/dogs_cats/training_set/`
+- `datasets/train_set/`
   - `cats/`: Cat images
   - `dogs/`: Dog images
-- `datasets/dogs_cats/test_set/`
+- `datasets/test_set/`
   - `cats/`: Cat images for testing
   - `dogs/`: Dog images for testing
 
