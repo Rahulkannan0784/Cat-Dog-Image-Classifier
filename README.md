@@ -1,3 +1,6 @@
+![Cat-Dog Classifier](cat_dog_classifier.png){: width="400px" }
+
+
 # Cat-Dog Image Classifier
 
 A Convolutional Neural Network (CNN) project built with TensorFlow and Keras to classify images as cats or dogs. This repository serves as a practical exercise in deep learning.
