@@ -1,5 +1,4 @@
-![Cat-Dog Classifier](cat_dog_classifier.png){: width="400px" }
-
+![Cat-Dog Classifier](imaged-based-species-Homepage-Icon1.png)
 
 # Cat-Dog Image Classifier
 
